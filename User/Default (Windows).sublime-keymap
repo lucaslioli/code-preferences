@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+	{ "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
+	{ "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+	{ "keys": ["alt+x"], "command": "scroll_width", "args": {"amount": 20, "by_character" : true }},
+	{ "keys": ["alt+z"], "command": "scroll_width", "args": {"amount": -20, "by_character" : true }},
+]
