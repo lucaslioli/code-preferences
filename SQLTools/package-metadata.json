@@ -1,1 +1,0 @@
-{"platforms": ["*"], "sublime_text": ">=3000", "description": "SQLTools for Sublime Text 3", "dependencies": [], "url": "http://mtxr.github.io/SQLTools", "version": "0.9.1"}
