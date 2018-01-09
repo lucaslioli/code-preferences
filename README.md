@@ -41,6 +41,8 @@ An article wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://goo.g
 
 { "keys": ["ctrl+pagedown"], "command": "next_view_in_stack" },
 { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
+
+{ "keys": ["alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
 ```
 To improve the plugin **Horizontal Scroll¹**
 ```
