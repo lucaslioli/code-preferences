@@ -8,30 +8,36 @@ A gist with many useful plugins, preferences and shortcuts: [https://goo.gl/8xhr
 An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://goo.gl/jsHJ3y)
 
 ### Packages Installed
-* "Additional PHP Snippets",
-* "All Autocomplete",
-* "AutoFileName",
-* "Bootstrap 3 Autocomplete",
-* "Bootstrap 3 Snippets",
-* "Clickable URLs",
-* "Color Highlighter",
-* "DocBlockr",
-* "EditorConfig",
-* "Emmet",
-* "GotoDocumentation",
-* "Horizontal Scroll",
-* "HTML-CSS-JS Prettify",
-* "Indent XML",
-* "Insert Callback",
-* "Material Color Scheme",
-* "Material Theme",
-* "Package Control",
-* "PhpDoc",
-* "SideBarEnhancements",
-* "SQLTools",
-* "SublimeCodeIntel",
-* "SublimeLinter",
-* "SublimeLinter-php"
+* A File Icon
+* Additional PHP Snippets
+* All Autocomplete
+* AutoFileName
+* Bootstrap 3 Autocomplete
+* Bootstrap 3 Snippets
+* BracketHighlighter
+* Clickable URLs
+* Color Highlighter
+* DocBlockr
+* EditorConfig
+* Emmet
+* Git
+* GitGutter
+* GotoDocumentation
+* Horizontal Scroll
+* HTML-CSS-JS Prettify
+* Indent XML
+* Insert Callback
+* Material Color Scheme
+* Material Theme
+* Materialize
+* Package Control
+* PhpDoc
+* SideBarEnhancements
+* SQLTools
+* SublimeCodeIntel
+* SublimeLinter
+* SublimeLinter-php
+* Sublimerge 3
    
 ### Key Bindings setted
 
