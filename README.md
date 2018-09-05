@@ -43,6 +43,12 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 { "keys": ["ctrl+pageup"], "command": "prev_view_in_stack" },
 
 { "keys": ["alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+
+{ "keys": ["ctrl+up"], "command": "upper_case" },
+{ "keys": ["ctrl+down"], "command": "lower_case" },
+
+{ "keys": ["ctrl+k", "ctrl+u"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+{ "keys": ["ctrl+k", "ctrl+l"], "command": "scroll_lines", "args": {"amount": -1.0 } },
 ```
 To improve the plugin **Horizontal Scroll¹**
 ```
