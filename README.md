@@ -10,6 +10,7 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 ### Packages Installed
 * A File Icon
 * Additional PHP Snippets
+* AlignTab
 * All Autocomplete
 * AutoFileName
 * Bootstrap 3 Autocomplete
@@ -17,16 +18,19 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 * BracketHighlighter
 * Clickable URLs
 * Color Highlighter
+* CSS3
 * DocBlockr
 * EditorConfig
 * Emmet
 * Git
 * GitGutter
+* GitHub Build Status
 * GotoDocumentation
 * Horizontal Scroll
 * HTML-CSS-JS Prettify
 * Indent XML
 * Insert Callback
+* jQuery 
 * Material Color Scheme
 * Material Theme
 * Materialize
