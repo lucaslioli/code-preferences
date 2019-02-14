@@ -20,10 +20,10 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 * EditorConfig
 * Emmet
 * Git
-* GitGutter
+* GitGutter¹
 * GitHub Build Status
 * GotoDocumentation
-* Horizontal Scroll
+* Horizontal Scroll²
 * HTML-CSS-JS Prettify
 * Indent XML
 * Insert Callback
@@ -56,6 +56,12 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 
 { "keys": ["ctrl+k", "ctrl+u"], "command": "scroll_lines", "args": {"amount": 1.0 } },
 { "keys": ["ctrl+k", "ctrl+l"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+```
+**GitGutter** Settings**²**
+```
+{
+  "show_line_annotation": "false"
+}
 ```
 To improve the plugin **Horizontal Scroll¹**
 ```
