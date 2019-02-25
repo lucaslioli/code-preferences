@@ -10,27 +10,19 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 * AlignTab
 * All Autocomplete
 * AutoFileName
-* Bootstrap 3 Autocomplete
-* Bootstrap 3 Snippets
 * BracketHighlighter
-* Clickable URLs
-* Color Highlighter
 * CSS3
 * DocBlockr
-* EditorConfig
 * Emmet
 * Git
 * GitGutter¹
 * GitHub Build Status
 * GotoDocumentation
 * Horizontal Scroll²
-* HTML-CSS-JS Prettify
 * Indent XML
-* Insert Callback
 * jQuery
 * Material Color Scheme
 * Material Theme
-* Materialize
 * Package Control
 * PhpDoc
 * SideBarEnhancements
@@ -56,6 +48,19 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 
 { "keys": ["ctrl+k", "ctrl+u"], "command": "scroll_lines", "args": {"amount": 1.0 } },
 { "keys": ["ctrl+k", "ctrl+l"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+
+{ "keys": ["alt+1", "alt+1"], "command": "fold_by_level", "args": {"level": 1} },
+{ "keys": ["alt+2", "alt+2"], "command": "fold_by_level", "args": {"level": 2} },
+{ "keys": ["alt+3", "alt+3"], "command": "fold_by_level", "args": {"level": 3} },
+{ "keys": ["alt+4", "alt+4"], "command": "fold_by_level", "args": {"level": 4} },
+{ "keys": ["alt+5", "alt+5"], "command": "fold_by_level", "args": {"level": 5} },
+{ "keys": ["alt+6", "alt+6"], "command": "fold_by_level", "args": {"level": 6} },
+{ "keys": ["alt+7", "alt+7"], "command": "fold_by_level", "args": {"level": 7} },
+{ "keys": ["alt+8", "alt+8"], "command": "fold_by_level", "args": {"level": 8} },
+{ "keys": ["alt+9", "alt+9"], "command": "fold_by_level", "args": {"level": 9} },
+{ "keys": ["alt+0", "alt+0"], "command": "unfold_all" },
+{ "keys": ["alt+d", "alt+d"], "command": "unfold_all" },
+{ "keys": ["alt+t", "alt+t"], "command": "fold_tag_attributes" },
 ```
 **GitGutter** Settings**²**
 ```
