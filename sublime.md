@@ -49,6 +49,8 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 { "keys": ["ctrl+k", "ctrl+u"], "command": "scroll_lines", "args": {"amount": 1.0 } },
 { "keys": ["ctrl+k", "ctrl+l"], "command": "scroll_lines", "args": {"amount": -1.0 } },
 
+{ "keys": ["alt+shift+,"], "command": "fold" },
+{ "keys": ["alt+shift+."], "command": "unfold" },
 { "keys": ["alt+1", "alt+1"], "command": "fold_by_level", "args": {"level": 1} },
 { "keys": ["alt+2", "alt+2"], "command": "fold_by_level", "args": {"level": 2} },
 { "keys": ["alt+3", "alt+3"], "command": "fold_by_level", "args": {"level": 3} },
