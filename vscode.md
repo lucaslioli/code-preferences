@@ -58,6 +58,6 @@
   "explorer.confirmDragAndDrop": false,
   "workbench.startupEditor": "newUntitledFile",
   "git.confirmSync": false,
-  "search.useIgnoreFiles": false,
+  "search.useIgnoreFiles": false
 }
 ```
