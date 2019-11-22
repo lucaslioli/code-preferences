@@ -42,7 +42,8 @@
 {"key": "ctrl+u", "command": "scrollLineUp", "when": "textInputFocus"},
 {"key": "ctrl+l", "command": "scrollLineDown", "when": "textInputFocus"},
 
-{"key": "ctrl+shift+l", "command": "editor.action.insertCursorAtEndOfEachLineSelected", "when": "editorTextFocus"},
+{"key": "ctrl+shift+l", "command": "editor.action.insertCursorAtEndOfEachLineSelected", 
+    "when": "editorTextFocus"},
 {"key": "ctrl+alt+d", "command": "editor.action.selectHighlights", "when": "editorFocus"},
 ```
 
