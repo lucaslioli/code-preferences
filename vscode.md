@@ -7,21 +7,26 @@
 * Git History
 * Guides
 * HTML Snippets
+* Magic Python
 * markdownlint
 * Material Icon Theme
 * Material Theme
-* MySQL
 * Path Intellisense
 * PHP Debug
 * PHP DocBlocker
 * PHP Intelephense
 * Project Manager
+* Python
+* Python Extended
+* Python Extension Pack
+* Python for VSCode
 * Rainbow Brackets
 * Reveal
 * Settings Sync
 * SQL Beautify
-* SQL Server (mssql)
 * Trailing Spaces
+* Visual Studio IntelliCode
+* XML Tools
 
 ## Shortcuts
 ```
@@ -39,4 +44,20 @@
 
 {"key": "ctrl+shift+l", "command": "editor.action.insertCursorAtEndOfEachLineSelected", "when": "editorTextFocus"},
 {"key": "ctrl+alt+d", "command": "editor.action.selectHighlights", "when": "editorFocus"},
+```
+
+## Settings
+```
+{
+  "editor.renderIndentGuides": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "git.autofetch": true,
+  "python.jediEnabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "git.confirmSync": false,
+  "search.useIgnoreFiles": false,
+}
 ```
