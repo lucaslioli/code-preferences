@@ -1,10 +1,10 @@
 ## Utilities for Sublime Text
 A gist with many useful plugins, preferences and shortcuts: [https://goo.gl/8xhrDL](https://goo.gl/8xhrDL)
 
-## Why you should use Sublime Text?
+## Why should you use Sublime Text?
 An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://goo.gl/jsHJ3y)
 
-## Packages Installed
+## Useful Packages
 * A File Icon
 * Additional PHP Snippets
 * AlignTab
@@ -32,7 +32,9 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 * SublimeLinter-php
 * Sublimerge 3
 
-## Key Bindings setted
+## Key Bindings
+
+Resetting some shortcuts that I use frequently. It get better in my opinion.
 
 ```
 { "keys": ["ctrl+tab"], "command": "next_view" },
@@ -67,14 +69,24 @@ An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://
 { "keys": ["alt+d", "alt+d"], "command": "unfold_all" },
 { "keys": ["alt+t", "alt+t"], "command": "fold_tag_attributes" },
 ```
-**GitGutter** Settings**²**
-```
-{
-  "show_line_annotation": "false"
-}
-```
+
 To improve the plugin **Horizontal Scroll¹**
 ```
 { "keys": ["alt+x"], "command": "scroll_width", "args": {"amount": 30, "by_character": true} },
 { "keys": ["alt+z"], "command": "scroll_width", "args": {"amount": -30, "by_character": true} }
+```
+
+**GitGutter** Settings**²**
+```
+{ "show_line_annotation": "false" }
+```
+
+## Settings
+
+```
+{
+     "color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+     "show_encoding": true,
+     "theme": "Adaptive.sublime-theme",
+}
 ```
