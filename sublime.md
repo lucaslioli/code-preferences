@@ -1,9 +1,6 @@
 ## Utilities for Sublime Text
 A gist with many useful plugins, preferences and shortcuts: [https://goo.gl/8xhrDL](https://goo.gl/8xhrDL)
 
-## Why should you use Sublime Text?
-An article (pt) wrote by me for PET-SI website: [https://goo.gl/jsHJ3y](https://goo.gl/jsHJ3y)
-
 ## Useful Packages
 * A File Icon
 * Additional PHP Snippets
