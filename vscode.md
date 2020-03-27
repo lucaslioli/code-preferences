@@ -45,6 +45,7 @@
 {"key": "ctrl+shift+l", "command": "editor.action.insertCursorAtEndOfEachLineSelected", 
     "when": "editorTextFocus"},
 {"key": "ctrl+alt+d", "command": "editor.action.selectHighlights", "when": "editorFocus"},
+{"key": "ctrl+shift+g","command": "editor.emmet.action.wrapWithAbbreviation","when": "editorHasSelection"},
 ```
 
 ## Settings
